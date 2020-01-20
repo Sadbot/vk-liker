@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vk-liker/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk-liker/static/js/main.ea14fb96.chunk.js",
+    "main.js.map": "/vk-liker/static/js/main.ea14fb96.chunk.js.map",
+    "runtime-main.js": "/vk-liker/static/js/runtime-main.b14dc6b5.js",
+    "runtime-main.js.map": "/vk-liker/static/js/runtime-main.b14dc6b5.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/vk-liker/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.51eb1c9e.chunk.js": "/vk-liker/static/js/2.51eb1c9e.chunk.js",
+    "static/js/2.51eb1c9e.chunk.js.map": "/vk-liker/static/js/2.51eb1c9e.chunk.js.map",
+    "index.html": "/vk-liker/index.html",
+    "precache-manifest.094583cc8571d23b0bd4269175d9aecb.js": "/vk-liker/precache-manifest.094583cc8571d23b0bd4269175d9aecb.js",
+    "service-worker.js": "/vk-liker/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/vk-liker/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk-liker/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.51eb1c9e.chunk.js.LICENSE": "/vk-liker/static/js/2.51eb1c9e.chunk.js.LICENSE",
+    "static/media/persik.png": "/vk-liker/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b14dc6b5.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.51eb1c9e.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.ea14fb96.chunk.js"
+  ]
+}
